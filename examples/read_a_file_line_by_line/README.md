@@ -1,0 +1,1 @@
+How to use `read` command to read a file line by line.
